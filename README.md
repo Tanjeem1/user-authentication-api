@@ -2,7 +2,7 @@
 
 
 ## Overview
-This is a Django Rest APi based user authentication api. It alloes to registration, login, change password with jwt authentication and send password change link to user email. And reset password through the link send in user mail.
+This is a Django Rest APi based user authentication api. It allowes to registration, login, change password with jwt authentication and send password change link to user email. And reset password through the link send in user mail.
 
 
 ## Features
